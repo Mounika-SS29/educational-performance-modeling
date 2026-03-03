@@ -65,3 +65,5 @@ inside the `visuals/` folder.
 ## Status
 
 Completed as a structured statistical learning project.
+
+Statistical modeling and predictive analysis of student academic performance using regression and time-series techniques.
